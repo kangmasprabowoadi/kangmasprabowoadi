@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Kangmas Prabowo Adi
 
-💁 **Also known as:** Kangmass Prabowo Adi SanjayaTvNews     
+💁 **Also known as:** Prabowo Adi Sanjaya, also known as Kangmas SanjayaTvNews   
 🌱 **Passions:** AI | Tech™ | Photography | Content Creation  
 🎥 **Projects:** Stories, Vlogs & Cinematic Clips  
 🤝 **Collab?** DM my Instagram! 📩  
+
+![Code </>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXB0MWVnN2lwOGViYTNxMXNnZnZ6ZjR3YnIwanFqb21wNnY4eHVmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif)
+![TYPING....](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ4NWk0cTk3dnBtbzkxcnF2ZzhsaWRhNXZpaGxzZjViangyYmM4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
 📍 **Locations:** KDS • PWT • YK • SRG • SLO • SMG  
 🌲 **Community PIK-R Satria:** [@pikrsatriastematel](https://www.instagram.com/pikrsatriastematel?utm_source=ig_web_button_share_sheet&igsh=NHA0b3pldXBiYzRs)    
