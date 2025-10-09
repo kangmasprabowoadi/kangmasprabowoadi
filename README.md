@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Kangmas Prabowo Adi
 
+![Kangmas.PrabowoAdi](banner-github.png)
+
 💁 **Also known as:** Prabowo Adi Sanjaya, also known as Kangmas SanjayaTvNews   
 🌱 **Passions:** AI | Tech™ | Photography | Content Creation  
 🎥 **Projects:** Stories, Vlogs & Cinematic Clips  
