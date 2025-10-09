@@ -1,22 +1,32 @@
 # 👋 Hi, I'm Kangmas Prabowo Adi
 
-🌱 **Learning:** NodeJS | Laravel | Android Studio | UI/UX  
-💻 **Working on:** E-Libra & Joblank Projects  
-🤝 **Collab on:** Web & Mobile App Projects  
-💬 **Ask me about:** HTML, CSS, JS, Laravel, PHP  
-📫 **Reach me:** [IG : @kangmas.prabowoadi](https://www.instagram.com/kangmas.prabowoadi?igsh=c21scjB0bjFqdTNs)  
-📫 **Reach me:** [IG : @sanjaya.tvnews](https://www.instagram.com/sanjaya.tvnews?igsh=MWV5cjIycW5qMXNkYw==)  
-⚡ **Fun fact:** I love creating mini projects, historical comics & journals
+💁 **Also known as:** Kangmass Prabowo Adi SanjayaTvNews     
+🌱 **Passions:** AI | Tech™ | Photography | Content Creation  
+🎥 **Projects:** Stories, Vlogs & Cinematic Clips  
+🤝 **Collab?** DM my Instagram! 📩  
+
+📍 **Locations:** KDS • PWT • YK • SRG • SLO • SMG  
+🌲 **Community PIK-R Satria:** [@pikrsatriastematel](https://www.instagram.com/pikrsatriastematel?utm_source=ig_web_button_share_sheet&igsh=NHA0b3pldXBiYzRs)    
+🌱 **Community Gen-Re:** [@genrepwtselatan](https://www.instagram.com/genrepwtselatan?utm_source=ig_web_button_share_sheet&igsh=N3loNHNiaDl5bm1r)    
 
 ---
 
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### 🛠️ Tech & Skills
+![AI](https://img.shields.io/badge/AI-00CFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Tech](https://img.shields.io/badge/Tech-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Photography](https://img.shields.io/badge/Photography-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)
+![Content Creation](https://img.shields.io/badge/Content%20Creation-8A2BE2?style=for-the-badge)
 
 ---
 
-### 📊 GitHub Stats
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi123&show_icons=true&theme=tokyonight)
+### 📫 How to reach me
+- Instagram: [@kangmas.prabowoadi](https://instagram.com/kangmas.prabowoadi)  
+- Instagram: [@sanjaya.tvnews](https://instagram.com/sanjaya.tvnews)  
+- Lynk.ID: [prabowoadisanjaya](https://lynk.id/prabowoadisanjaya)  
+- Spotify: [Kangmas Prabowo Adi](https://open.spotify.com/user/31vaxeqjndf4rtiq7jenh6372cce?si=cvxmtPJ0QKicEfbIgL4VIQ)  
+
+---
+
+### ⚡ Fun fact
+- I love creating mini projects, historical comics & journals  
+- Photography and cinematic storytelling are my favorite hobbies
