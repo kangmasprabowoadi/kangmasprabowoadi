@@ -3,7 +3,7 @@
 🌱 **Learning:** NodeJS | Laravel | Android Studio | UI/UX  
 💻 **Working on:** E-Libra & Joblank Projects  
 🤝 **Collab on:** Web & Mobile App Projects  
-💬 **Ask me about:** HTML, CSS, JS, Laravel, PHP
+💬 **Ask me about:** HTML, CSS, JS, Laravel, PHP  
 📫 **Reach me:** [IG : @kangmas.prabowoadi](https://www.instagram.com/kangmas.prabowoadi?igsh=c21scjB0bjFqdTNs)  
 📫 **Reach me:** [IG : @sanjaya.tvnews](https://www.instagram.com/sanjaya.tvnews?igsh=MWV5cjIycW5qMXNkYw==)  
 ⚡ **Fun fact:** I love creating mini projects, historical comics & journals
