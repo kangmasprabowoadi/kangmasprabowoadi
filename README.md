@@ -30,9 +30,7 @@
 
 ### 📫 How to reach me
 - Instagram: [@kangmas.prabowoadi](https://instagram.com/kangmas.prabowoadi)  
-- Instagram: [@sanjaya.tvnews](https://instagram.com/sanjaya.tvnews)  
-- Lynk.ID: [prabowoadisanjaya](https://lynk.id/prabowoadisanjaya)  
-- Spotify: [Kangmas Prabowo Adi](https://open.spotify.com/user/31vaxeqjndf4rtiq7jenh6372cce?si=cvxmtPJ0QKicEfbIgL4VIQ)  
+- Instagram: [@sanjaya.tvnews](https://instagram.com/sanjaya.tvnews) 
 
 ---
 
