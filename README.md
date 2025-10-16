@@ -11,6 +11,11 @@
 🌲 **Community PIK-R Satria:** [@pikrsatriastematel](https://www.instagram.com/pikrsatriastematel)    
 🌱 **Community Gen-Re:** [@genrepwtselatan](https://www.instagram.com/genrepwtselatan)
 
+### ⚡ Fun fact
+- 📸 I love creating mini projects, historical comics & journals  
+- 🎬 Photography and cinematic storytelling are my favorite hobbies  
+- 🤝 Always open for collaborations!
+
 ---
 
 ![Code </>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXB0MWVnN2lwOGViYTNxMXNnZnZ6ZjR3YnIwanFqb21wNnY4eHVmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif)
@@ -145,9 +150,3 @@
 ![YouTube Gaming](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)
 
 ---
-
-### ⚡ Fun fact
-- 📸 I love creating mini projects, historical comics & journals  
-- 🎬 Photography and cinematic storytelling are my favorite hobbies  
-- 🤝 Always open for collaborations!
-
