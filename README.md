@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kangmas Prabowo Adi
+# 👋 Hi, I'm Kangmas Prabowo Adi SanjayaTVNEWS
 
 ![Kangmas.PrabowoAdi](banner-github.png)
 
