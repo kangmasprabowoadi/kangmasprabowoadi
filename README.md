@@ -18,10 +18,8 @@
 
 ---
 
-![Code </>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXB0MWVnN2lwOGViYTNxMXNnZnZ6ZjR3YnIwanFqb21wNnY4eHVmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif) ![Programmer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhNm80bWhrM2xjNGJjbzM1dTdremR5Y3ZseHBrbzdpbmIxMGFwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
+![Code </>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXB0MWVnN2lwOGViYTNxMXNnZnZ6ZjR3YnIwanFqb21wNnY4eHVmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif)
 ![TYPING....](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ4NWk0cTk3dnBtbzkxcnF2ZzhsaWRhNXZpaGxzZjViangyYmM4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
-
-![Cat Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBhNm80bWhrM2xjNGJjbzM1dTdremR5Y3ZseHBrbzdpbmIxMGFwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 ---
 
