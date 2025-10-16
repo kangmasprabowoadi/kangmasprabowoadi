@@ -6,7 +6,7 @@
 🌱 **Passions:** AI | Tech™ | Photography | Content Creation  
 🎥 **Projects:** Stories, Vlogs & Cinematic Clips  
 🤝 **Collab?** DM my Instagram! 📩  
-
+   
 📍 **Locations:** KDS • PWT • YK • SRG • SLO • SMG  
 🌲 **Community PIK-R Satria:** [@pikrsatriastematel](https://www.instagram.com/pikrsatriastematel)    
 🌱 **Community Gen-Re:** [@genrepwtselatan](https://www.instagram.com/genrepwtselatan)
