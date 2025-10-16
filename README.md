@@ -12,9 +12,9 @@
 🌱 **Community Gen-Re:** [@genrepwtselatan](https://www.instagram.com/genrepwtselatan)
 
 ### ⚡ Fun fact
-📸 ** I love creating mini projects, historical comics & journals  **
-🎬 ** Photography and cinematic storytelling are my favorite hobbies  **
-🤝 ** Always open for collaborations! **
+📸 I love creating mini projects, historical comics & journals
+🎬 Photography and cinematic storytelling are my favorite hobbies
+🤝 Always open for collaborations!
 
 ---
 
