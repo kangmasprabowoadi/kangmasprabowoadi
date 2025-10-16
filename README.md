@@ -25,6 +25,7 @@
 ![Tech](https://img.shields.io/badge/Tech-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Photography](https://img.shields.io/badge/Photography-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)
 ![Content Creation](https://img.shields.io/badge/Content%20Creation-8A2BE2?style=for-the-badge)
+![Chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
