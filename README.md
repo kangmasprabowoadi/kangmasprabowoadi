@@ -26,14 +26,6 @@
 
 ---
 
-## 🛠️ Tech & Skills (Main Interests)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![AI](https://img.shields.io/badge/AI-00CFFF?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![Photography](https://img.shields.io/badge/Photography-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)
-![Content Creation](https://img.shields.io/badge/Content%20Creation-8A2BE2?style=for-the-badge)
-
----
-
 ## 📊 Analytics
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
