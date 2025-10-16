@@ -37,9 +37,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📚 Education
-
-
 ## 🍔 Food
 ![Burger King](https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white)
 ![Grab](https://img.shields.io/badge/Grab-00B14F?style=for-the-badge&logo=grab&logoColor=white)
@@ -88,15 +85,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
----
-
 ## 🎧 Music & Streaming🎞
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![YouTube Gaming](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)
-
 
 ## 🌐 Social & Contact 👨
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -113,7 +107,6 @@
 🌐 Lynk.ID: [prabowoadisanjaya](https://lynk.id/prabowoadisanjaya)  
 🎧 Spotify: [My Playlist](https://open.spotify.com/user/31vaxeqjndf4rtiq7jenh6372cce?si=cvxmtPJ0QKicEfbIgL4VIQ)
 
-
 ## 🤖 AI & Tools 📊
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
@@ -121,7 +114,6 @@
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-
 
 ## ☁ Cloud & Finance 💲
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
