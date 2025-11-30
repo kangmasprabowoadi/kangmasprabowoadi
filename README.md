@@ -27,10 +27,10 @@
 ---
 
 # 💻 Tech Stack
-<!-- Icon bukan Badge ya ges -->
+<!-- Ini Bagian Icon -->
 [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,bootstrap,css,github,git,gmail,java,kotlin,nodejs,ae,html,htmx,ai,instagram,laravel,linkedin,notion,ps,php,powershell,pr,py,react,tailwind,ts,vercel,vscode,windows,wordpress,aiscript,alpinejs,figma&theme=dark)](https://skillicons.dev)
 
-<!-- Semua badge akan berada di tengah otomatis -->
+<!-- Ini Bagian Badge -->
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -76,7 +76,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=kangmasprabowoadi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
