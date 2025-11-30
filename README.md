@@ -2,4 +2,8 @@
 
 ![Kangmas.PrabowoAdi](banner-github.png)
 
-[![Kangmas Prabowo Adi GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+
+![Adi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=transparent&hide_border=true)
