@@ -3,7 +3,7 @@
 # 💁 Hi, I'm Kangmas Prabowo Adi SanjayaTvNews 🌱  
 <br>
 
-![Kangmas.PrabowoAdi](banner-github.png)
+![Kangmas.PrabowoAdi](banner_terbaru.png)
 
 ---
 
