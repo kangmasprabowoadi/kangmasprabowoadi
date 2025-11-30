@@ -1,6 +1,5 @@
 <div align="center">
 
-# 💫 About Me
 # 💁 Hi, I'm Kangmas Prabowo Adi SanjayaTvNews 🌱  
 <br>
 
@@ -29,7 +28,7 @@
 
 # 💻 Tech Stack
 <!-- Icon bukan Badge ya ges -->
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,ae,aiscript,alpinejs,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,bootstrap,css,github,git,gmail,java,kotlin,nodejs,ae,aiscript,alpinejs,figma&theme=dark)](https://skillicons.dev)
 
 <!-- Semua badge akan berada di tengah otomatis -->
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
