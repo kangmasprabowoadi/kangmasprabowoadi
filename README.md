@@ -28,7 +28,7 @@
 
 # 💻 Tech Stack
 <!-- Ini Bagian Icon -->
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,express,nginx,bootstrap,css,cloudflare,aws,github,git,gmail,java,firebase,gcp,go,mysql,js,flutter,kotlin,nodejs,ae,html,htmx,ai,instagram,laravel,linkedin,notion,ps,php,powershell,pr,npm,vite,py,react,tailwind,ts,vercel,vscode,windows,wordpress,aiscript,alpinejs,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,aiscript,alpinejs,anaconda,androidstudio,aws,bootstrap,cloudflare,css,express,figma,firebase,flutter,gcp,git,github,gmail,go,html,htmx,instagram,java,js,kotlin,laravel,linkedin,mysql,nginx,nodejs,notion,npm,php,powershell,pr,ps,py,react,tailwind,ts,vercel,vite,vscode,windows,wordpress&theme=dark)](https://skillicons.dev)
 
 <!-- Ini Bagian Badge -->
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
