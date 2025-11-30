@@ -15,6 +15,16 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kangmasprabowoadi)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31vaxeqjndf4rtiq7jenh6372cce?si=cvxmtPJ0QKicEfbIgL4VIQ)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6289525684106)
+
+---
+
+🛠 Accounts I Manage
+[![Sanjaya TV News](https://img.shields.io/badge/@sanjaya.tvnews-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sanjaya.tvnews/)
+[![GenRe PWT Selatan](https://img.shields.io/badge/@genrepwtselatan-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/genrepwtselatan/)
+[![PIK-R Satria Stematel](https://img.shields.io/badge/@pikrsatriastematel-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pikrsatriastematel/)
+[![Next Pixel Studio](https://img.shields.io/badge/@Itsnextpixelstudio_-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itsnextpixelstudio_/)
+[![Stematel PWT](https://img.shields.io/badge/@stematelpwt-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/stematelpwt/)
+
 ---
 
 # 💻 Tech Stack
