@@ -3,8 +3,6 @@
 # 💁 Hi, I'm Kangmas Prabowo Adi SanjayaTvNews 🌱  
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi, I'm%20Kangmas Prabowo Adi SanjayaTvNews&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
-
 ![Kangmas.PrabowoAdi](banner_terbaru.png)
 
 ---
