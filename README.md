@@ -80,4 +80,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=kangmasprabowoadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Views](https://yourdomain.com/svg/count/9/Repository%20Views/your-repo)
+
 </div>
